@@ -1,0 +1,15 @@
+#d1{
+    font-size: 20px;
+    width:80px;
+    height:60px;
+    background-color:paleturquoise;
+    border:5px double pink;
+}
+#hideme{
+    font-size:50px;
+	background-color:pink;
+	border:5px double aqua;
+}
+body{
+    background-image: url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?size=626&ext=jpg&ga=GA1.1.632798143.1705881600&semt=sph);
+}
